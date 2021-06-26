@@ -1,0 +1,17 @@
+{
+  "name": "removebg-wrapper",
+  "version": "1.0.2",
+  "description": "It is an easy way to use the remove bg api for removing background of an image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "removebg"
+  ],
+  "author": "Rubayz",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
