@@ -1,7 +1,7 @@
 <h1>removebg-wrapper</h1>
 ----
 <h2>This is a simple wrapper for easy use of remove.bg api to remove background of an image.</h2>
-
+<h3>Make sure you look at the website of <a href="https://remove.bg">remove-bg</a> for more info on API key and docs.</h3>
 <h3>Installation</h3>
 ```
 $ npm install removebg-wrapper
